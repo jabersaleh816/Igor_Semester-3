@@ -1,0 +1,9 @@
+# Compiled and generated files
+*.o
+*.obj
+*.exe
+*.out
+*.app
+build/
+output/
+bin/
